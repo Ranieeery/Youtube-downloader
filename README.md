@@ -7,7 +7,7 @@ Consiste em um programa que baixa vídeos do youtube, utilizando a biblioteca py
 Utilize gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/installation/) para instalar as dependências.
 
 ```bash
-pip install pytube                                                                                                                             Youtube downloader 
+pip install pytube
 ```
 
-Em seguida, basta executar o arquivo main.py e inserir o link do vídeo que deseja baixar. 
+Em seguida, basta executar o arquivo main.py e inserir o link do vídeo que deseja baixar (funciona com shorts também).
